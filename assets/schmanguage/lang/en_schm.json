@@ -4354,7 +4354,7 @@
   "item.modifiers.mainhand": "Schmen in Schmain Schmand:",
   "item.modifiers.offhand": "Schmen in Schmoff Schmand:",
   "item.op_block_warning.line1": "Schmarning:",
-  "item.op_block_warning.line2": "Schmacing this item might lead to command execution",
+  "item.op_block_warning.line2": "Schmuse of this item might lead to command execution",
   "item.unbreakable": "Schmunbreakable",
   "item_modifier.unknown": "Schmunknown item modifier: %s",
   "itemGroup.buildingBlocks": "Schmuilding Schmocks",

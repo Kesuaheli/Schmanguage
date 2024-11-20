@@ -4354,7 +4354,7 @@
   "item.modifiers.mainhand": "Tjen in Tjain Tjand:",
   "item.modifiers.offhand": "Tjen in Tjoff Tjand:",
   "item.op_block_warning.line1": "Tjarning:",
-  "item.op_block_warning.line2": "Tjacing this item might lead to command execution",
+  "item.op_block_warning.line2": "Tjuse of this item might lead to command execution",
   "item.unbreakable": "Tjunbreakable",
   "item_modifier.unknown": "Tjunknown item modifier: %s",
   "itemGroup.buildingBlocks": "Tjuilding Tjocks",
